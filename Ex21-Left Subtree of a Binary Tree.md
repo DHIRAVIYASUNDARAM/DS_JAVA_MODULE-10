@@ -16,8 +16,8 @@ To design and implement a Python program that constructs a binary tree from give
 /*
 Program to construct a binary tree from given level order input 
 and count the number of nodes in the left subtree of the root node.
-Developed by: SINGAMALA VENKATA SAI KUMAR REDDY
-RegisterNumber: 212223230208
+Developed by: DHIRAVIYA S
+RegisterNumber:  212223040041
 */
 import java.util.*;
 
